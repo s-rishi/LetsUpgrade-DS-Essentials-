@@ -6,11 +6,5 @@ I want to merge this
 I also want to merge this
 
 
-<<<<<<< Updated upstream
-
-
-
 Testing Commits
-=======
 User 2 is editing this
->>>>>>> Stashed changes
