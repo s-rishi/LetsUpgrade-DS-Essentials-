@@ -7,4 +7,6 @@ I also want to merge this
 
 
 Testing Commits
-User 2 is editing this
+
+
+this content will be added
