@@ -8,3 +8,7 @@ I also want to merge this
 
 Testing Commits
 User 2 is editing this
+
+
+
+User 1 wants to commit this
